@@ -1,5 +1,5 @@
 # PARSA Discord Theme
-### PARSA is a modern discord theme with Persian and Arabic language support
+PARSA is a modern discord theme with Persian and Arabic language support
 #### PARSA uses Vazirmatn font made by - Saber Rasti Kardar 🖤 - to display Persian numbers and letters
 
 <hr>
@@ -8,7 +8,7 @@ Current version: v1.0.0 (2024/05/16)
 
 <hr>
 
-<p><strong>Requirement :</strong></p>
+## Requirement
 <ul>
  	<li>Discord PC : https://discord.com/download</li>
  	<li>Vencord Plugin : https://vencord.dev/download</li>
@@ -16,6 +16,8 @@ Current version: v1.0.0 (2024/05/16)
 </ul>
 
 <hr>
+
+##Tutorial
 
 <b>The installation tutorial will be published soon...</b>
 
