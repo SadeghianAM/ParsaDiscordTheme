@@ -21,7 +21,6 @@ Current version: v1.0.0 (2024/05/16)
 
 
 ## Important Note :
-<br>
 <em>This theme is just a customized version of Soft X
 <br>
 All the images, and graphics used in the theme belong to their respective owners
