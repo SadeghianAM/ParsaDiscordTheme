@@ -15,8 +15,8 @@ Current version: v1.0.0 (2024/05/16) - Public release
 The installation tutorial will be published soon...
 
 ## Important Note :
-<em>This theme is just a customized version of Soft X
+<em>This theme is just a customized version of SoftX from DiscordStyles
 <br>
 All the images, and graphics used in the theme belong to their respective owners
 <br>
-Soft X : https://github.com/DiscordStyles/SoftX </em>
+SoftX : https://github.com/DiscordStyles/SoftX </em>
