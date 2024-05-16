@@ -1,9 +1,6 @@
 # PARSA Discord Theme
 PARSA uses Vazirmatn font made by - **Saber Rasti Kardar 🖤** - to display Persian numbers and letters
 
-## Version and changelog
-Current version: v1.0.0 (2024/05/16) - Public release
-
 ## Requirement
 <ul>
  	<li>Discord PC : https://discord.com/download</li>
@@ -13,6 +10,9 @@ Current version: v1.0.0 (2024/05/16) - Public release
 
 ## Tutorial
 The installation tutorial will be published soon...
+
+## Version and changelog
+Current version: v1.0.0 (2024/05/16) - Public release
 
 ## Important Note :
 <em>This theme is just a customized version of SoftX from DiscordStyles
