@@ -1,4 +1,4 @@
-# PARSA Discord Theme
+# تم دیسکورد پارسا
 
 <div dir="rtl">
 
