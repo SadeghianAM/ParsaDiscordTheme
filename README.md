@@ -1,85 +1,101 @@
-# PARSA Discord Theme | تم پارسا برای دیسکورد
-
-<div dir="rtl">
-تم پارسا از فونت وزیرمتن برای نمایش بهتر حروف و اعداد فارسی استفاده می‌کند. طراحی این فونت زیبا توسط صابر راستی‌کردار انجام شده است. 🖤
-</div>
-
-PARSA is a Persian-optimized Discord theme using Vazirmatn font (designed by Saber Rasti Kardar 🖤) for better display of Persian numbers and letters.
-
-![Theme Preview](preview.png) <!-- You might want to add a preview image -->
-
-## ✨ Features | ویژگی‌ها
+# PARSA Discord Theme
 
 <div dir="rtl">
 
+## 💫 معرفی
+تم پارسا یک تم شخصی‌سازی شده برای دیسکورد است که با استفاده از فونت وزیرمتن (طراحی شده توسط صابر راستی‌کردار 🖤) تجربه کاربری بهتری را برای کاربران فارسی‌زبان فراهم می‌کند.
+
+## ✨ ویژگی‌ها
 - بهینه‌سازی شده برای زبان فارسی
 - رابط کاربری نرم و چشم‌نواز
 - سازگار با تمام بخش‌های دیسکورد
-- پشتیبانی از اعداد و حروف فارسی
+- پشتیبانی کامل از اعداد و حروف فارسی
+- شخصی‌سازی شده بر پایه تم محبوب SoftX
+
+## 🔧 پیش‌نیازها
+برای استفاده از این تم به موارد زیر نیاز دارید:
+- نسخه دسکتاپ دیسکورد ([دانلود](https://discord.com/download))
+- افزونه Vencord ([دانلود](https://vencord.dev/download))
+- فایل تم ([دانلود](https://raw.githubusercontent.com/SadeghianAM/ParsaDiscordTheme/main/ParsaDiscordTheme.css))
+
+## 📥 راهنمای نصب
+1. ابتدا دیسکورد را روی سیستم خود نصب کنید
+2. افزونه Vencord را دانلود و نصب کنید
+3. لینک زیر را کپی کنید:
+   ```
+   https://raw.githubusercontent.com/SadeghianAM/ParsaDiscordTheme/main/ParsaDiscordTheme.css
+   ```
+4. وارد تنظیمات Vencord شوید
+5. در بخش Themes، لینک تم را اضافه کنید
+6. تم را فعال کنید
+7. از محیط فارسی شده دیسکورد لذت ببرید!
+
+*راهنمای تصویری مراحل نصب به زودی اضافه خواهد شد...*
+
+## 📝 تاریخچه نسخه‌ها
+### نسخه 1.0.0 (1403/02/27)
+- انتشار عمومی اولیه
+- پیاده‌سازی تم پایه
+- یکپارچه‌سازی فونت فارسی
+
+## ⚠️ نکات مهم
+این تم یک نسخه شخصی‌سازی شده از تم [SoftX](https://github.com/DiscordStyles/SoftX) است. تمامی تصاویر و المان‌های گرافیکی استفاده شده متعلق به صاحبان اصلی آنها می‌باشد.
+
+## 🤝 قدردانی
+- از تیم [SoftX](https://github.com/DiscordStyles/SoftX) برای تم پایه
+- از [صابر راستی‌کردار](https://github.com/rastikerdar/vazirmatn) برای طراحی فونت وزیرمتن
+
+## 📄 مجوز
+این پروژه تحت مجوز MIT منتشر شده است. برای اطلاعات بیشتر، فایل LICENSE را مطالعه کنید.
+
 </div>
 
+---
+
+# PARSA Discord Theme
+
+## 💫 Introduction
+PARSA is a customized Discord theme that provides a better user experience for Persian users by utilizing the Vazirmatn font (designed by Saber Rasti Kardar 🖤).
+
+## ✨ Features
 - Optimized for Persian language
 - Smooth and eye-friendly interface
 - Compatible with all Discord sections
-- Persian numbers and letters support
+- Full support for Persian numbers and letters
+- Customized based on the popular SoftX theme
 
-## 🔧 Requirements | پیش‌نیازها
+## 🔧 Requirements
+To use this theme, you need:
+- Discord Desktop ([Download](https://discord.com/download))
+- Vencord Plugin ([Download](https://vencord.dev/download))
+- Theme File ([Download](https://raw.githubusercontent.com/SadeghianAM/ParsaDiscordTheme/main/ParsaDiscordTheme.css))
 
-- [Discord PC](https://discord.com/download)
-- [Vencord Plugin](https://vencord.dev/download)
-- [Theme File](https://raw.githubusercontent.com/SadeghianAM/ParsaDiscordTheme/main/ParsaDiscordTheme.css)
-
-## 📥 Installation | نصب و راه‌اندازی
-
-<div dir="rtl">
-
-1. دیسکورد را نصب کنید
-2. افزونه Vencord را نصب کنید
-3. لینک تم را کپی کنید:
+## 📥 Installation Guide
+1. First, install Discord on your system
+2. Download and install the Vencord plugin
+3. Copy this link:
    ```
    https://raw.githubusercontent.com/SadeghianAM/ParsaDiscordTheme/main/ParsaDiscordTheme.css
    ```
-4. در تنظیمات Vencord، لینک تم را وارد کنید
-5. تم را فعال کنید و از آن لذت ببرید!
+4. Go to Vencord settings
+5. Add the theme link in the Themes section
+6. Enable the theme
+7. Enjoy your Persian-optimized Discord!
 
-راهنمای تصویری نصب به زودی منتشر خواهد شد...
-</div>
+*Detailed installation guide with images coming soon...*
 
-1. Install Discord
-2. Install Vencord plugin
-3. Copy the theme link:
-   ```
-   https://raw.githubusercontent.com/SadeghianAM/ParsaDiscordTheme/main/ParsaDiscordTheme.css
-   ```
-4. Add the theme link in Vencord settings
-5. Enable the theme and enjoy!
-
-Detailed installation guide with images coming soon...
-
-## 📝 Version History | تاریخچه نسخه‌ها
-
-### v1.0.0 (2024/05/16)
+## 📝 Version History
+### Version 1.0.0 (2024/05/16)
 - Initial public release
 - Base theme implementation
 - Persian font integration
 
-## ⚠️ Important Notes | نکات مهم
-
-<div dir="rtl">
-این تم نسخه شخصی‌سازی شده‌ای از تم SoftX است. تمامی تصاویر و المان‌های گرافیکی استفاده شده متعلق به صاحبان اصلی آنها می‌باشد.
-</div>
-
+## ⚠️ Important Notes
 This theme is a customized version of [SoftX](https://github.com/DiscordStyles/SoftX). All images and graphics used in the theme belong to their respective owners.
 
-## 🤝 Credits | قدردانی
+## 🤝 Credits
+- [SoftX](https://github.com/DiscordStyles/SoftX) team for the base theme
+- [Saber Rasti Kardar](https://github.com/rastikerdar/vazirmatn) for designing the Vazirmatn font
 
-- [SoftX Theme](https://github.com/DiscordStyles/SoftX)
-- [Vazirmatn Font](https://github.com/rastikerdar/vazirmatn)
-
-## 📄 License | مجوز
-
-<div dir="rtl">
-این پروژه تحت مجوز MIT منتشر شده است. برای اطلاعات بیشتر، فایل LICENSE را مطالعه کنید.
-</div>
-
+## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
