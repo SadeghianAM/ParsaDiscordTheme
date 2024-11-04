@@ -17,9 +17,9 @@
 - فایل تم ([دانلود](https://raw.githubusercontent.com/SadeghianAM/ParsaDiscordTheme/main/ParsaDiscordTheme.css))
 
 ## 📥 راهنمای نصب
-ابتدا دیسکورد را روی سیستم خود نصب کنید
-افزونه Vencord را دانلود و نصب کنید
-لینک زیر را کپی کنید:
+ابتدا دیسکورد را روی سیستم خود نصب کنید </br>
+افزونه Vencord را دانلود و نصب کنید</br>
+لینک زیر را کپی کنید:</br>
    ```
    https://raw.githubusercontent.com/SadeghianAM/ParsaDiscordTheme/main/ParsaDiscordTheme.css
    ```
